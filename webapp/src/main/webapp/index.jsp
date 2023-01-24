@@ -87,23 +87,23 @@
       .btn-item, button {
       padding: 10px 5px;
       margin-top: 20px;
-      border-radius: 5px; 
+      border-radius: 10px; 
       border: none;
-      background: #26a9e0; 
+      background: #29a9e0; 
       text-decoration: none;
-      font-size: 15px;
-      font-weight: 400;
-      color: #fff;
+      font-size: 50px;
+      font-weight: 600;
+      color: #ffb;
       }
       .btn-item {
       display: inline-block;
       margin: 20px 5px 0;
       }
       button {
-      width: 100%;
+      width: 50%;
       }
       button:hover, .btn-item:hover {
-      background: #85d6de;
+      background: #25d6de;
       }
       @media (min-width: 568px) {
       html, body {
