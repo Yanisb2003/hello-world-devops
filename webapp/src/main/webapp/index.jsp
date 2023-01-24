@@ -33,7 +33,7 @@
       justify-content: center;
       align-items: center;
       height: 100%;
-      padding: 25px;
+      padding: 205px;
       background: rgba(0, 0, 0, 0.5); 
       }
       .left-part, form {
@@ -124,7 +124,7 @@
     <div class="main-block">
       <div class="left-part">
         <i class="fas fa-graduation-cap"></i>
-        <h1>Register to our courses</h1>
+        <h1>Register to our service</h1>
         <p>W3docs provides free learning materials for programming languages like HTML, CSS, Java Script, PHP etc.</p>
         <div class="btn-group">
           <a class="btn-item" href="https://www.w3docs.com/learn-html.html">Learn HTML</a>
@@ -134,7 +134,7 @@
       <form action="/">
         <div class="title">
           <i class="fas fa-pencil-alt"></i> 
-          <h2>Register here</h2>
+          <h2>Enregistrez vous ici</h2>
         </div>
         <div class="info">
           <input class="fname" type="text" name="name" placeholder="Full name">
@@ -160,3 +160,4 @@
     </div>
   </body>
 </html>
+re
